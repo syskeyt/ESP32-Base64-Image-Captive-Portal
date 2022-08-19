@@ -1,5 +1,5 @@
 # ESP32-Base64-Image-Captive-Portal
-An easy and reliable way to show images on a captive portal using an ESP32
+A simple and reliable way to show images on a captive portal using an ESP32
 
 Convert an image to Base64 and put it in HTMLPAGE.h
 
