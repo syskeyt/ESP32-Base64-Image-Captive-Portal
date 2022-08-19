@@ -7,4 +7,4 @@ When pasting the Base64 code, use notepad instead of Arduino IDE to avoid crashe
 
 Default image is a red dot
 
-It is recommened to use the Huge APP partition scheme in the Arduino IDE to not run out of space
+Use the Huge APP partition scheme in the Arduino IDE to not run out of space
