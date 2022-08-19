@@ -3,4 +3,4 @@ An easy way to show images on a captive portal using an ESP32
 
 Convert an image to Base64 and put it in HTMLPAGE.h
 
-Defualt image is a red dot
+Default image is a red dot
